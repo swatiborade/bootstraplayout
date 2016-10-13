@@ -1,0 +1,52 @@
+body{
+	background-color: #f2f2f2;
+	font: 14px/22px 'Lato', arial;
+}
+#menu .navbar{
+	margin-bottom: 0;
+	padding: 10px 0 10px 0;
+	background-color: #fff;
+}
+#menu{
+	margin-bottom: 8px;
+}
+#banner{
+	padding: 8px;
+	background-color: #fff;
+	margin-bottom: 10px;
+}
+#content .col-md-3{
+	background-color: #fff;
+}
+#content .col-md-3 i{
+	float: left;
+	margin-right: 20px;
+}
+.sprite{
+	background: url(../images/web.png) no-repeat;
+	display: block;
+}
+.webdesign{
+	background-position: 0 8px;
+	width: 43px;
+	height: 50px;
+}
+.graphicdesign{
+	background-position: 0 -43px;
+	width: 43px;
+	height: 50px;
+}
+.corporate{
+	background-position: 0 -95px;
+	width: 43px;
+	height: 50px;
+}
+.animation{
+	background-position: 0 -145px;
+	width: 43px;
+	height: 50px;
+}
+#footer{
+	clear: both;
+	padding: 10px 0 10px 0;
+}
